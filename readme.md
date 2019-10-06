@@ -1,3 +1,10 @@
+Consultar CNPJ e CPF na receita
+
+
+docu abaixo
+
+https://receitaws.com.br/api?fbclid=IwAR04R4X4U35Cx9CtpaZFncjNKPJ5TBUH1l_uCHs9Af_f7Z8jxi_u9ozP3Hc
+
 
 ReceitaWS
 Mantenha seu sistema sempre atualizado com dados fiéis das empresas que se relacionam com você.
